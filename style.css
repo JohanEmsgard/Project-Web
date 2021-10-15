@@ -1,6 +1,12 @@
 nav {
-  color: blue;
+  background-color: black;
   margin: 30px;
   display: flex;
   justify-content: space-around;
+  padding: 5;
+}
+
+nav a {
+  background-color: gray;
+  padding: 4%;
 }
