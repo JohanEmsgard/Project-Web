@@ -3,10 +3,19 @@ nav {
   margin: 30px;
   display: flex;
   justify-content: space-around;
-  padding: 5;
+  padding: 10;
 }
 
 nav a {
   background-color: gray;
-  padding: 4%;
+  padding: 2%;
+}
+
+P {
+  background-color: red;
+  padding: 2%;
+}
+
+img src {
+  justify-content: flex-end;
 }
