@@ -17,5 +17,5 @@ P {
 }
 
 img src {
-  justify-content: flex-end;
+  float: right;
 }
