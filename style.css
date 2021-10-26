@@ -1,21 +1,37 @@
 nav {
-  background-color: black;
   margin: 30px;
   display: flex;
   justify-content: space-around;
-  padding: 10;
+  padding: 3%;
 }
 
 nav a {
   background-color: gray;
-  padding: 2%;
+  padding: 1%;
+}
+
+header {
+  background-color: black;
+  margin-top: 20px;
 }
 
 P {
   background-color: red;
   padding: 2%;
+  width: 30%;
+}
+
+.P2 {
+  background-color: blue;
+  float: right;
+  display: flex;
 }
 
 img src {
   float: right;
+}
+
+.two-column {
+  display: flex;
+  justify-content: space-between;
 }
