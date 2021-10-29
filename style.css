@@ -25,6 +25,8 @@ P {
   background-color: blue;
   float: right;
   display: flex;
+  margin-bottom: 3cm;
+  width: 40%;
 }
 
 img src {
