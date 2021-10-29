@@ -36,7 +36,7 @@ img src {
   justify-content: space-between;
 }
 
-.h12 {
-  float: right;
-  
+nav b {
+  display: flex;
+  justify-content: space-between;
 }
