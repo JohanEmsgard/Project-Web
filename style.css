@@ -58,13 +58,9 @@ h1 {
   height: 200px;
 }
 
-.scroll-container2 {
+.main {
   overflow-y: scroll;
   width: 30%;
   height: 200px;
 }
 
-nav c {
-  display: flex;
-  justify-content: space-between;
-}
