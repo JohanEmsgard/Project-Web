@@ -52,15 +52,13 @@ h1 {
   height: 200px;
 }
 
-.scroll-container2 {
-  overflow-y: scroll;
-  width: 30%;
-  height: 200px;
-}
-
 .main {
   overflow-y: scroll;
   width: 30%;
   height: 200px;
 }
 
+.P3 {
+  background-color: beige;
+  padding: 3%;
+}
