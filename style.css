@@ -12,7 +12,7 @@ nav a {
 
 header {
   background-color: black;
-  margin-top: 20px;
+  padding: 1px;
 }
 
 P {
@@ -65,5 +65,5 @@ h1 {
 
 .Grid {
   display: grid;
-  border: 10px solid black;
+  border: 5px solid black;
 }
