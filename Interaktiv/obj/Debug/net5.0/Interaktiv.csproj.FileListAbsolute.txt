@@ -1,0 +1,16 @@
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\bin\Debug\net5.0\Interaktiv.exe
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\bin\Debug\net5.0\Interaktiv.deps.json
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\bin\Debug\net5.0\Interaktiv.runtimeconfig.json
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\bin\Debug\net5.0\Interaktiv.runtimeconfig.dev.json
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\bin\Debug\net5.0\Interaktiv.dll
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\bin\Debug\net5.0\ref\Interaktiv.dll
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\bin\Debug\net5.0\Interaktiv.pdb
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\obj\Debug\net5.0\Interaktiv.csproj.AssemblyReference.cache
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\obj\Debug\net5.0\Interaktiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\obj\Debug\net5.0\Interaktiv.AssemblyInfoInputs.cache
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\obj\Debug\net5.0\Interaktiv.AssemblyInfo.cs
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\obj\Debug\net5.0\Interaktiv.csproj.CoreCompileInputs.cache
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\obj\Debug\net5.0\Interaktiv.dll
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\obj\Debug\net5.0\ref\Interaktiv.dll
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\obj\Debug\net5.0\Interaktiv.pdb
+C:\Users\emsgard.johan\Programering1\Interaktiv\Interaktiv\obj\Debug\net5.0\Interaktiv.genruntimeconfig.cache
