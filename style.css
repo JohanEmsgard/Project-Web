@@ -68,3 +68,13 @@ h1 {
   border: 5px solid black;
 }
 
+.Login {
+display: flex;
+justify-content: space-evenly;
+background-color: gray;
+}
+
+.Signup {
+  align-items: center;
+  column-gap: normal;
+}
