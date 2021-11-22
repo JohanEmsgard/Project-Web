@@ -40,6 +40,7 @@ img src {
 nav b {
   display: flex;
   justify-content: space-between;
+  background-color: indigo;
 }
 
 h1 {
@@ -53,6 +54,12 @@ h1 {
 }
 
 .main {
+  overflow-y: scroll;
+  width: 30%;
+  height: 200px;
+}
+
+.Scroll-inte {
   overflow-y: scroll;
   width: 30%;
   height: 200px;
@@ -72,9 +79,14 @@ h1 {
 display: flex;
 justify-content: space-evenly;
 background-color: gray;
+flex-direction: column;
+width: 50%;
+margin: auto;
 }
 
 .Signup {
-  align-items: center;
-  column-gap: normal;
+  display: flex;
+  flex-direction: column;
+  align-items:baseline
 }
+
