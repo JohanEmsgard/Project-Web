@@ -83,6 +83,7 @@ background-color: gray;
 flex-direction: column;
 width: 50%;
 margin: auto;
+text-align: center;
 }
 
 .Signup {
@@ -91,3 +92,6 @@ margin: auto;
   align-items:baseline
 }
 
+.H4 {
+  text-align: center;
+}
